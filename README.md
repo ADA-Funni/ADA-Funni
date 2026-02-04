@@ -1,4 +1,2 @@
-# My website is live
-Go visit it, the link's gonna be below, FOREVER...
-
-[Visit my website here!](https://ada-funni.github.io/ADA-Funni/)
+# Hi guys!
+I'll post news on this readme if anything is happening
