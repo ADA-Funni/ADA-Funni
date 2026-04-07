@@ -10,6 +10,10 @@ Currently developing "Soul Swap".
 * Funkin' Mod Menu
 * FNF Violet Engine
 
+## I have contributed to projects like:
+* Friday Night Funkin'
+* FNF NightmareVision Engine
+
 ## I used to work on projects like:
 * Pibby: Apocalypse
 * CN Takeover 2024
@@ -17,7 +21,3 @@ Currently developing "Soul Swap".
 * TOONICIDE
 * Indie Cross: B-Side Remixes
 * Dave & Bambi: Structural Cosmos
-
-## I have contributed to projects like:
-* Friday Night Funkin'
-* FNF NightmareVision Engine
