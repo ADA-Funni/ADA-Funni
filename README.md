@@ -9,6 +9,7 @@ Currently developing "Soul Swap".
 * FNF Hundrec Mix
 * Funkin' Mod Menu
 * FNF Violet Engine
+
 * Pibby: Apocalypse (formerly)
 * CN Takeover 2024 (formerly)
 * No Time For Funkin' (formerly)
@@ -17,5 +18,5 @@ Currently developing "Soul Swap".
 * Dave & Bambi: Structural Cosmos (formerly)
 
 ## I have contributed to projects like:
-Friday Night Funkin'
-FNF NightmareVision Engine
+* Friday Night Funkin'
+* FNF NightmareVision Engine
