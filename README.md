@@ -1,4 +1,4 @@
-# ADA_Funni/ADAFunni🆖️
+# ADAFunni🆖️
 HaxeFlixel game developer since 2022.
 Currently developing "Soul Swap".
 
