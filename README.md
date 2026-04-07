@@ -10,6 +10,7 @@ Currently developing "Soul Swap".
 * Funkin' Mod Menu
 * FNF Violet Engine
 
+### I used to work on projects like:
 * Pibby: Apocalypse (formerly)
 * CN Takeover 2024 (formerly)
 * No Time For Funkin' (formerly)
